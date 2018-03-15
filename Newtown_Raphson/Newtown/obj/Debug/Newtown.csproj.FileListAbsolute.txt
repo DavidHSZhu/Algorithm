@@ -1,0 +1,6 @@
+H:\c#\Nexen\Newtown\Newtown\bin\Debug\Newtown.exe.config
+H:\c#\Nexen\Newtown\Newtown\bin\Debug\Newtown.exe
+H:\c#\Nexen\Newtown\Newtown\bin\Debug\Newtown.pdb
+H:\c#\Nexen\Newtown\Newtown\obj\Debug\Newtown.csprojResolveAssemblyReference.cache
+H:\c#\Nexen\Newtown\Newtown\obj\Debug\Newtown.exe
+H:\c#\Nexen\Newtown\Newtown\obj\Debug\Newtown.pdb
